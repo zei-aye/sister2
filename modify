@@ -1,3 +1,12 @@
 Repository, merupakan sekumpulan paket-paket software alias program untuk suatu sistem operasi (red : Linux) yang dipakai untuk menunjang kinerja dari suatu Software, program, 
 dan sebagainya yang didapatkan dari situs paket-paket tersebut. Bisa dibilang Repository ini merupakan paket-paket khusus untuk suatu sistem operasi yang kemudian 
 paket-paket tersebut di instal untuk mendapat kinerja lebih baik dari suatu sistem operasi.
+
+Fungsi
+
+Sebagai penunjang kinerja dari sebuah sistem operasi, program, aplikasi dan sebagainya yang di dapat dari Server Mirror 
+(penyedia File Repository), CD/DVD dan media penyimpanan lainnya.
+Dalam sebuah sistem operasi linux terdapat berbagai distro yang telah tersedia.
+ Karena banyaknya distro yang bertebaran, karna itu dibuatkanlah yang namanya "repository". 
+sehingga paket-paket tersebut tidak tercampur dengan paket distro lain...
+
